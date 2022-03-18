@@ -8,7 +8,7 @@ scipy                     1.6.2
 pandas                    1.2.4   
 numpy                     1.20.1   
 torch                             1.7.1  
-2.下载安装说明
+2.下载安装说明  
 将DsaPAML文件夹所有内容下载到本地，并从  https://drive.google.com/file/d/1Cr1bfTWXmwlxYK3o_QQx8o_ZcF7_0VIy/view?usp=sharing,   
 https://drive.google.com/file/d/1v24KBTMpuYoqvkwgvF6sQy2D_qVIYnh9/view?usp=sharing 处下载EX_data_samples1.csv和EX_model_samples1.csv,
 将这两个csv文件放置在RequiredBases文件夹中。  
